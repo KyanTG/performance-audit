@@ -1,18 +1,5 @@
-# Performance Audit 
+# Informatie over deze Deeltaak
 
-Doe een Performance audit op een bestaande website uit je eigen omgeving en rapporteer daarover.
+De Wiki van de tests: https://github.com/KyanTG/performance-audit/wiki/Onderzoek-Performance-Website-Healthcentrum-Amersfoort.
 
-De instructies van deze opdracht staan in [INSTRUCTIONS](https://github.com/fdnd-task/performance-audit/blob/main/docs/INSTRUCTIONS.md).
- 
-
-## Titel Website
-
-Welke website heb je getest? Beschrijf de website en voeg een screenshot toe.
-
-Toon screenshots van het Lighthouse Performance testresultaat voor Mobile, Desktop, de Core Web Vitals Assessment van PageSpeed Insights (als die beschikbaar is) en de waterfall chart van WebPageTest.
-
-Schrijf een samenvatting van de testbevindingen, en link naar je Wiki voor de volledige documentatie van je onderzoek.
-
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
+In deze deeltaak test ik een website uit mijn omgeving namelijk Healthcentrum Amersfoort, dit is een website van een kleine sportschool in Amersfoort waar ik sport. Ik test deze website omdat ik misschien ook kan helpen met het verbeteren van de performance ervan. In deze test voer ik 3 tests uit namelijk eerst met ligthhouse waar ik test op Mobile en Desktop performance en de problemen beschrijf. Hierna test ik met Pagespeed Insights en verglijk ik de resultaten met de vorige test. Als laatste test voer ik een test uit met WebPageTest en daar kijk ik naar de waterfall rubriek waar ik precies kan zien welke inhoud het langst nodig heeft om te laden.
